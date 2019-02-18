@@ -1,0 +1,4 @@
+How to strip the final whitespace from a string in C++: 
+For the program RunLengthEncode, we stripped the final whitespace by creating a
+substring that read all  the way up to any whitespace and printed out only the 
+substring so there was no whitespace present. 
